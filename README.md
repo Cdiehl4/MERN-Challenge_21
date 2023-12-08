@@ -17,3 +17,5 @@ create your repo
 clone the starter code
 edit the code
 commit the changes and push into github
+
+## Usage
